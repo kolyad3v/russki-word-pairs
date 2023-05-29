@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jxarxYvqtTo4yjfclXnE544+M39Vei2TeoJjzJvqZXKI2lJhuwyqdHrDpPqe8pxacvF6mQ3Syv07cpnjLtxMhw==",
+  "success": true,
+  "projectFilePath": "/home/kolya/Desktop/RussianWordPairs/DbConsoleApp/DbConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/home/kolya/.nuget/packages/microsoft.data.sqlite/8.0.0-preview.4.23259.3/microsoft.data.sqlite.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/home/kolya/.nuget/packages/microsoft.data.sqlite.core/8.0.0-preview.4.23259.3/microsoft.data.sqlite.core.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/home/kolya/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/kolya/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/kolya/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/kolya/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/kolya/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
