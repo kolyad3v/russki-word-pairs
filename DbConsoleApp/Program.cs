@@ -2,6 +2,5 @@
 
 var newDb = new CreateDB();
 
-newDb.CreateNewDb("BigJuicyBitches");
-    
+DbMethods.ShowData();
 

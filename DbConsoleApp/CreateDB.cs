@@ -4,7 +4,7 @@ using Microsoft.Data.Sqlite;
 public class CreateDB
 {
 
-    public string? DbPath; 
+    public string? DbPath { get; set; }
 
     public void CreateNewDb(string? dbname)
     {
